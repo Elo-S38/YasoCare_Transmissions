@@ -6,6 +6,18 @@
 
 - 🚧 En cours de développement
 
+# **Maquette**
+
+<div style="display: flex; justify-content: space-around;">
+<img src="doc/1.png" alt="authentification" width="200">
+<img src="doc/2.png" alt="authentification" width="200">
+<img src="doc/3.png" alt="authentification" width="200">
+<img src="doc/4.png" alt="authentification" width="200">
+<img src="doc/5.png" alt="authentification" width="200">
+<img src="doc/6.png" alt="authentification" width="200">
+<img src="doc/7.png" alt="authentification" width="200">
+<img src="doc/8.png" alt="authentification" width="200">
+</div>
 
 # **1️⃣ Présentation du projet**
 
@@ -80,6 +92,8 @@
      10. NIST Cybersecurity Framework
  
 🔹 **Intégration avec un système de télémédecine si absence de médecin coordinateur (accès EHPAD)**
+
+🔹 Intégration avec un système de transmission de **ticket technique à l'agent technique**
 
 🔹 **Traçabilité:** Génération de rapports sur les soins administrés	
 
