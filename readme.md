@@ -101,8 +101,6 @@
 
 🔹  **Rendre responsive**: Pour utilisation sur tablette lors des soins
 
-🔹  **Migration vers un modèle SAAS**
-
 🔹  **Gestion des traitements**: Alerte sur la compatibilité
 
 🔹 Gestion et suivi du patient **inter établissement**
