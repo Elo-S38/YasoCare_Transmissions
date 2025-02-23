@@ -125,7 +125,7 @@
   
   - Laravel
   
-  -API Rest
+  - API Rest
 
 🔹**Front-end**
   - HTML 
