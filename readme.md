@@ -47,7 +47,7 @@
 
 - **Etablissement**: EHPAD specifiquement 1 aile d'un étage
 
-- **Utilisateurs**: Admin, Aide-soignant, Infirmiere
+- **Utilisateurs**: Admin, Aide-soignant, Infirmiere, Médecin.
 
                             
 
