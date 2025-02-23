@@ -43,6 +43,14 @@
 
 # **Fonctionnalités principales (MVP)**: 
 
+## 🔹 **Mise en situation** 
+
+- **Etablissement**: EHPAD specifiquement 1 aile d'un étage
+
+- **Utilisateurs**: Admin, Aide-soignant, Infirmiere
+
+                            
+
 ## 🔹 **Gestion des patients:**	Création, consultation et modification des dossiers
 
 - ***Back***: Créer une base de donnée  
@@ -115,16 +123,16 @@
   
   - MySQL
   
-  - PHP PDO (requêtes SQL sécurisées)
+  - Laravel
   
-  -API Laravel
+  -API Rest
 
 🔹**Front-end**
   - HTML 
   
   - Tailwind CSS
   
-  - Javascript
+  - VueJS
  
 
 ## **Auteur**:  
