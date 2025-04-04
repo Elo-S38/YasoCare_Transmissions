@@ -11,11 +11,17 @@ class TransmissionSeeder extends Seeder
 {
     public function run()
     {
-        Transmission::factory(15)->create([
-            'patient_id' => Patient::inRandomOrder()->first()->id,
-            'soignant_id' => Soignant::inRandomOrder()->first()->id,
-        ]);
+        $patients = Patient::all();
+        $soignants = Soignant::all();
+
+        foreach ($patients as $patient) {
+            Transmission::factory(2)->create([
+                'patient_id' => $patient->id,
+                'soignant_id' => $soignants->random()->id,
+            ]);
+        }
     }
 }
+
 
 
